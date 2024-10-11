@@ -1,28 +1,13 @@
-package com.ss.batch;
+package com.ss.aws;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BatchApplicationTests {
+class AwsApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
-	
-	
-	@Test
-	public void test_main() {
-		
-		
-		
-	}
-	
-	
-	
-	
-	
-	
-	
 }
