@@ -12,8 +12,8 @@ public class MainController {
 
 	/*
 	 * 1. 배포위치의 기존 EC2 인스턴스 종료(삭제)
-	 * 2.  
-	 * 
+	 * 2. EC2 생성 및 탄력적IP 할당
+	 * 3. gradle 실행파일 권한 설정
 	 * 
 	*/
 	
