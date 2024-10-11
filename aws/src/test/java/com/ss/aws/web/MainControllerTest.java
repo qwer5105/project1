@@ -19,6 +19,8 @@ public class MainControllerTest {
 	@Test
 	public void test_main() {
  
+		
+		
 		ResponseEntity<String> resp = rest.getForEntity("/aws/v1", String.class);
 		
 		//assertEquals(기대값, 불러올 값)
